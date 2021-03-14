@@ -16,7 +16,7 @@
 
 **参考**：
 
-·转换方式1参考了[jackzhenguo的python例程](https://github.com/jackzhenguo/python-small-examples/blob/master/md/105.md "py")
+转换方式1参考了[jackzhenguo的python例程](https://github.com/jackzhenguo/python-small-examples/blob/master/md/105.md "py")
 
 转换方式2、3参考了[barrer的scan-helper中的文件](https://github.com/barrer/scan-helper "scan")
 

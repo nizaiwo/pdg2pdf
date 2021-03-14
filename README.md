@@ -10,7 +10,7 @@
 >
 >3通过文件名正则替换进行文件名rename（删除图片名中多余的数字/字母来精简图片名）
 >
->4通过pip下载jpg2pdf的包后进行jpg转pdf处理（需要`pip install jpg2pdf`的包）
+>4通过pip下载jpg2pdf的包后进行jpg转pdf处理（需要`pip install jpg2pdf`）
 >
 最后，把这几步整合一下变成一个py文件
 
@@ -22,5 +22,4 @@
 
 转换方式4引入了[leejeonghun的jpg2pdf包](https://github.com/leejeonghun/jpg2pdf)
 
-
-
+最后成果来自于99%的参考和1%的整合。起因是我在github上没有找到pdg转pdf的项目，只找到了pdf转pdg的。下此应该试一下减少检索内容来扩大检索范围，或者多看看关于那些项目的具体描述。

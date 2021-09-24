@@ -1,3 +1,28 @@
+
+**增加功能**
+
+* 标准命令行调用
+* 对文件进行排序
+* 区分封面封底目录页等等
+* 开启noexif和debug功能
+* 增加noexif的进度条
+* 增加图像转码，将错误的PDG转成JPG格式后再合并
+* 增加大量转换错误的处理
+* 增加zip(pdg)的自动解压处理
+* 增加一个目录的zip的自动处理
+
+**问题**
+如果zip包内没包含目录，会导致文件名为空，并无法显示(被系统自动隐藏了)
+
+**需要安装**
+pip install progressbar2
+pip install pathlib
+pip install argtools
+apt install imagemagick
+
+
+----------
+
 **工具**：pdg2pdf
 
 **作用**：将多个pdg文件合成为一个pdf文件

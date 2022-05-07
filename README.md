@@ -20,7 +20,7 @@ python3 pdg2pdf.py -r "your books filepath" # 转换多个个pdf文件
 
 2. 通过文件名正则替换进行文件名rename（删除图片名中多余的数字/字母来精简图片名）
 
-3. 通过pip下载PIL的包后进行jpg转pdf处理（需要`pip install jpg2pdf`）
+3. 通过pip下载PIL的包后进行jpg转pdf处理
 
 4. PyPDF2合并为一个pdf文件
 

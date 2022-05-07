@@ -14,6 +14,7 @@ python3 pdg2pdf.py -r "your books filepath" # 转换多个个pdf文件
 - 压缩文件需安装依赖软件Ghostscrip:
 [Ghostscript Installation](https://raw.githubusercontent.com/theeko74/pdfc/master/README.md)
 - pip3 install PIL textwrap argparse PyPDF2 textwrap3 -i https://pypi.douban.com/simple
+
 **转换策略**：
 
 1. 通过后缀处理将文件后缀的pdg改为了jpg
